@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Covid</string>
+    <string name="feedbackname">Nombre</string>
+    <string name="fiebre">Fiebre</string>
+    <string name="resfriado">Resfriado</string>
+    <string name="dolorMuscular">Dolor Muscular</string>
+    <string name="dolorCabeza">Dolor de Cabeza</string>
+    <string name="dolorGarganta">Dolor de Garganta</string>
+    <string name="sabor">Pérdida de sabor u olor</string>
+</resources>
